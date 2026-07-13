@@ -1,4 +1,4 @@
-# Code Orange Dev School — Strategic Assessment
+# Code Orange Dev School - Strategic Assessment
 
 > A critical, honest analysis of where Code Orange stands, what grant givers actually want to see, and what it takes to become the definitive Bitcoin developer pipeline in Asia.
 
@@ -8,13 +8,13 @@
 
 ### What OpenSats, HRF, and Btrust Are Really Looking For
 
-Grant reviewers at these organizations see hundreds of applications. They're not looking for passion or good intentions — they fund those who have already proven they can ship. Here's what separates funded applicants from rejected ones:
+Grant reviewers at these organizations see hundreds of applications. They're not looking for passion or good intentions - they fund those who have already proven they can ship. Here's what separates funded applicants from rejected ones:
 
 **1. Upstream Code Contributions (This Is the #1 Signal)**
 
 OpenSats funded 10,904 PRs in 2025. Their entire thesis is that open-source contributions are how Bitcoin gets stronger. When they evaluate an education program, they're asking one question: *"How many PRs did your graduates ship to real Bitcoin repos?"*
 
-Code Orange's current answer: ~15 PRs opened, ~9 merged. That's a start, but Bitshala — your closest peer — has graduates contributing to Bitcoin Core, LDK, and BDK regularly, and they have a funded incubator that puts graduates on 6-month stipends to do nothing but write code.
+Code Orange's current answer: ~15 PRs opened, ~9 merged. That's a start, but Bitshala - your closest peer - has graduates contributing to Bitcoin Core, LDK, and BDK regularly, and they have a funded incubator that puts graduates on 6-month stipends to do nothing but write code.
 
 **What to do**: Track every PR obsessively. Set a goal of 50 merged PRs by year-end. Create a "first PR" milestone for every cohort graduate. Make the PR dashboard your most-updated repo.
 
@@ -22,7 +22,7 @@ Code Orange's current answer: ~15 PRs opened, ~9 merged. That's a start, but Bit
 
 49 registered, 21 graduated sounds good. But grant reviewers immediately ask: "What did the 21 do *after* graduation?" If the answer is "we're not sure," that's a red flag.
 
-**What to do**: Follow every graduate for 6 months post-graduation. Track: Did they submit a BOSS Challenge? Did they open a PR? Did they apply for a grant? Did they start contributing to a project? Publish this data quarterly. This is your strongest differentiator — no other Asian education program does post-graduation tracking.
+**What to do**: Follow every graduate for 6 months post-graduation. Track: Did they submit a BOSS Challenge? Did they open a PR? Did they apply for a grant? Did they start contributing to a project? Publish this data quarterly. This is your strongest differentiator - no other Asian education program does post-graduation tracking.
 
 **3. FOSS Licensing on Everything (Non-Negotiable for OpenSats)**
 
@@ -44,7 +44,7 @@ The worst thing you can signal is dependency. Grant givers want to fund programs
 
 ---
 
-## Part 2: Honest Assessment — Where Code Orange Is Strong and Where It's Weak
+## Part 2: Honest Assessment - Where Code Orange Is Strong and Where It's Weak
 
 ### Strengths (What Grant Givers Will Love)
 
@@ -55,10 +55,10 @@ This is rare and valuable. Most Bitcoin education happens online. Having a physi
 There is no other serious Bitcoin developer education program focused on Southeast Asia. Bitshala covers India. Libreria de Satoshi covers Latin America. Code Orange owns Asia. This geographic monopoly is your strongest grant argument. But you need to expand beyond Bali to prove the "Asia" claim.
 
 **3. Program Diversity**
-You run 10+ different types of workshops covering everything from absolute beginners (Reading Club) to advanced developers (Bitcoin Dojo, rawBit). This "full funnel" approach — from curious person to open-source contributor — is exactly what grant givers want to see.
+You run 10+ different types of workshops covering everything from absolute beginners (Reading Club) to advanced developers (Bitcoin Dojo, rawBit). This "full funnel" approach - from curious person to open-source contributor - is exactly what grant givers want to see.
 
 **4. Partner Network**
-Chaincode Labs, Bitcoin Dev Project, rawBit, Fedi, Soapbox, Bitcoin House Bali — you've built real partnerships with real Bitcoin organizations. This validates your credibility.
+Chaincode Labs, Bitcoin Dev Project, rawBit, Fedi, Soapbox, Bitcoin House Bali - you've built real partnerships with real Bitcoin organizations. This validates your credibility.
 
 **5. Consistency**
 15 months of continuous, documented activity. Monthly workshops without missing a beat. This consistency is your proof of work.
@@ -71,7 +71,7 @@ Chaincode Labs, Bitcoin Dev Project, rawBit, Fedi, Soapbox, Bitcoin House Bali �
 **Specific fix**: Create a mandatory "first PR" requirement for Dojo and Decoding Bitcoin graduation. Even a documentation fix counts. Target: every graduate ships at least 1 PR within 30 days of graduation.
 
 **2. No Graduate Case Studies**
-You have amazing individual stories — Chaitika working on Silent Payments, Razor contributing to peer-observer — but none of them are written up and published. Grant reviewers love narrative. They want to read a 500-word story about how someone went from zero to merged PR.
+You have amazing individual stories - Chaitika working on Silent Payments, Razor contributing to peer-observer - but none of them are written up and published. Grant reviewers love narrative. They want to read a 500-word story about how someone went from zero to merged PR.
 
 **Specific fix**: Write 3 case studies. Publish them in the impact report repo. This is 3-4 hours of work with massive ROI.
 
@@ -92,20 +92,20 @@ Bitshala has 1,200+ Discord members and 350+ regular participants. If Code Orang
 
 ---
 
-## Part 3: The Next-Level Plan — Becoming THE Bitcoin Developer Pipeline in Asia
+## Part 3: The Next-Level Plan - Becoming THE Bitcoin Developer Pipeline in Asia
 
-### Phase 1: Fix the Foundation (Now — June 2026)
+### Phase 1: Fix the Foundation (Now - June 2026)
 
 **Goal**: Close every gap identified above before your next grant application.
 
-1. **LICENSE every repo** — 30 minutes, do it today
-2. **Write 3 graduate case studies** — 4 hours total
-3. **Create a "first PR" graduation requirement** — policy change, immediate
-4. **Track Discord size** — 5 minutes to check, add to impact report
-5. **Calculate and publish cost-per-developer** — 1 hour
-6. **Pin repos, write descriptions, add topics** — 1 hour (from existing action plan)
+1. **LICENSE every repo** - 30 minutes, do it today
+2. **Write 3 graduate case studies** - 4 hours total
+3. **Create a "first PR" graduation requirement** - policy change, immediate
+4. **Track Discord size** - 5 minutes to check, add to impact report
+5. **Calculate and publish cost-per-developer** - 1 hour
+6. **Pin repos, write descriptions, add topics** - 1 hour (from existing action plan)
 
-### Phase 2: Scale the Pipeline (June — December 2026)
+### Phase 2: Scale the Pipeline (June - December 2026)
 
 **Goal**: Double PR output, expand to 2 new countries, launch advanced track.
 
@@ -156,7 +156,7 @@ Your pipeline currently ends at "first PR." The funded programs (Bitshala, Summe
 - Goal: 3+ merged PRs during the fellowship
 - Funded by grant money (this is what you apply for)
 
-This is the piece that turns your grant application from "education program" to "developer pipeline" — the difference between teaching someone to code and actually producing Bitcoin contributors.
+This is the piece that turns your grant application from "education program" to "developer pipeline" - the difference between teaching someone to code and actually producing Bitcoin contributors.
 
 ### Phase 3: Institutional Credibility (2027)
 
@@ -205,7 +205,7 @@ That's not "strong applicant." That's "obvious yes."
 
 ## The One Thing That Matters Most
 
-If you only take one thing from this assessment, it's this: **the PR count is your report card.** Everything else — workshops, meetups, cohorts, slides, events — is the process. The PRs are the result. Every decision you make should be filtered through: "Does this lead to more merged PRs in Bitcoin open-source projects?"
+If you only take one thing from this assessment, it's this: **the PR count is your report card.** Everything else - workshops, meetups, cohorts, slides, events - is the process. The PRs are the result. Every decision you make should be filtered through: "Does this lead to more merged PRs in Bitcoin open-source projects?"
 
 The workshops are the funnel. The cohorts are the training. The PRs are the proof. Make the proof undeniable, and the grants will follow.
 

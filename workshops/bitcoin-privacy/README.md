@@ -1,6 +1,6 @@
 # Bitcoin Privacy Workshop
 
-> Discover how private Bitcoin payments really are — and how to make them more private.
+> Discover how private Bitcoin payments really are - and how to make them more private.
 
 ---
 
@@ -25,16 +25,16 @@ The Bitcoin Privacy Workshop is a hands-on exploration of privacy tools and tech
 - Onion routing and path privacy
 
 ### eCash (Cashu & Fedimint)
-- How Cashu mints work — blind signatures for privacy
+- How Cashu mints work - blind signatures for privacy
 - Nutstash wallet setup and usage
-- Fedimint federations — community-held funds with complete privacy
+- Fedimint federations - community-held funds with complete privacy
 - Setting up a Fedimint federation on Umbrel
 - Sending eCash globally without a bank (tested: US, India, Lithuania, Australia, China)
 
 ### Privacy Tools in Practice
 - Submarine swaps: on-chain → Lightning → eCash (complete privacy chain)
 - WhiteNoiseChat for encrypted communications
-- Fedi app — private messaging + shared custody + mini apps
+- Fedi app - private messaging + shared custody + mini apps
 - Cypherpunk culture and philosophy
 
 ### Advanced Privacy
@@ -63,9 +63,9 @@ The Bitcoin Privacy Workshop is a hands-on exploration of privacy tools and tech
 
 | Date | Location | Highlights |
 |------|----------|------------|
-| Jun 24-27, 2025 | Bitcoin House Bali | Cashu, Fedimint, Fedi workshop — cypherpunk culture |
-| Jul 19-24, 2025 | Online (Discord) | Reading Club evolved into privacy workshop — submarine swaps |
-| Oct 24, 2025 | Bitcoin House Bali | Tracked Lightning across 4 wallets — discovered 3-hop privacy |
+| Jun 24-27, 2025 | Bitcoin House Bali | Cashu, Fedimint, Fedi workshop - cypherpunk culture |
+| Jul 19-24, 2025 | Online (Discord) | Reading Club evolved into privacy workshop - submarine swaps |
+| Oct 24, 2025 | Bitcoin House Bali | Tracked Lightning across 4 wallets - discovered 3-hop privacy |
 | Nov 4, 2025 | Online (Discord) | Used Fedi eCash for completely private payment |
 | Feb 25, 2026 | Online (Discord) | Sent Fedi eCash to 5 countries without a bank |
 | Mar 21, 2026 | Online (Discord) | Monthly privacy/self-custody/censorship-resistance series launched |

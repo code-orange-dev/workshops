@@ -8,7 +8,7 @@
 
 Bitcoin Dojo is a 7-week intensive study cohort in partnership with [Chaincode Labs](https://chaincode.com/) and the BOSS (Building Open-Source Software) Challenge. Based on Jimmy Song's "Programming Bitcoin," participants implement Bitcoin's cryptographic primitives from scratch in Python and graduate into open-source contribution.
 
-**Format**: Online (Discord) — weekly calls, Monday 11:00 UTC
+**Format**: Online (Discord) - weekly calls, Monday 11:00 UTC
 **Duration**: 7 weeks
 **Partners**: Chaincode Labs (BOSS Challenge), Bitcoin Dojo
 **Audience**: Developers with basic Python knowledge
@@ -45,10 +45,10 @@ Bitcoin Dojo is a 7-week intensive study cohort in partnership with [Chaincode L
 ## Weekly Call Format
 
 Each Monday call follows the Socratic method:
-1. Review homework — discuss solutions, common mistakes
-2. Deep-dive into the week's topic — guided Q&A, not lecture
-3. Coding challenge — implement the next piece of Bitcoin in Python
-4. Discussion questions — "Why does this design choice matter?"
+1. Review homework - discuss solutions, common mistakes
+2. Deep-dive into the week's topic - guided Q&A, not lecture
+3. Coding challenge - implement the next piece of Bitcoin in Python
+4. Discussion questions - "Why does this design choice matter?"
 5. Homework assignment for next week
 
 ---
@@ -57,25 +57,25 @@ Each Monday call follows the Socratic method:
 
 | Date | Event |
 |------|-------|
-| Feb 16, 2026 | Bitcoin Dojo announced — 7-week program |
-| Feb 23, 2026 | Cohort 1 intro call — 49 registered |
-| Mar 2, 2026 | Week 1 — modular arithmetic, Fermat's Little Theorem |
-| Mar 9, 2026 | Week 2 — point at infinity, finite field multiplication |
-| Mar 11, 2026 | Week 3 — compressed/uncompressed SEC, hashing, addresses |
-| Mar 23, 2026 | Week 4 — scriptSig, scriptPubKey, P2PKH |
-| Mar 27, 2026 | Week 5 — keys to addresses, Base58 vs Bech32 |
-| Apr 4, 2026 | Final call — next steps, BOSS Challenge, grants |
-| Apr 6, 2026 | **Graduation** — 21 graduates, discussed Good First Issues |
+| Feb 16, 2026 | Bitcoin Dojo announced - 7-week program |
+| Feb 23, 2026 | Cohort 1 intro call - 49 registered |
+| Mar 2, 2026 | Week 1 - modular arithmetic, Fermat's Little Theorem |
+| Mar 9, 2026 | Week 2 - point at infinity, finite field multiplication |
+| Mar 11, 2026 | Week 3 - compressed/uncompressed SEC, hashing, addresses |
+| Mar 23, 2026 | Week 4 - scriptSig, scriptPubKey, P2PKH |
+| Mar 27, 2026 | Week 5 - keys to addresses, Base58 vs Bech32 |
+| Apr 4, 2026 | Final call - next steps, BOSS Challenge, grants |
+| Apr 6, 2026 | **Graduation** - 21 graduates, discussed Good First Issues |
 
 ---
 
 ## Graduate Outcomes
 
 After graduation, Dojo graduates pursue:
-- **Chaincode Labs BOSS Challenge** — structured open-source contribution program
+- **Chaincode Labs BOSS Challenge** - structured open-source contribution program
 - **Good First Issues** across Bitcoin Core, rust-bitcoin, and BDK
 - **Grant applications** to OpenSats, Btrust, Brink, Maelstrom, Spiral, HRF
-- **Advanced study** — rawBit cohort, Bitshala incubator
+- **Advanced study** - rawBit cohort, Bitshala incubator
 
 ---
 

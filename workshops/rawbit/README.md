@@ -8,7 +8,7 @@
 
 The rawBit Study Cohort is a 10-week hands-on program where participants construct Bitcoin transactions byte-by-byte using the [rawBit](https://github.com/rawBit-io/rawbit) visual transaction builder and Script debugger. Covers legacy transactions, SegWit, multisig, timelocks, and Taproot.
 
-**Format**: Online (Discord) — weekly calls
+**Format**: Online (Discord) - weekly calls
 **Duration**: 10 weeks
 **Partners**: rawBit (@rawBit_io)
 **Audience**: Developers who've completed Bitcoin Dojo or equivalent
@@ -51,8 +51,8 @@ GitHub: [rawBit-io/rawbit](https://github.com/rawBit-io/rawbit)
 
 | Date | Event |
 |------|-------|
-| Apr 3, 2026 | **rawBit Study Cohort launched** — 10-week program announced |
-| Apr 2026 — ongoing | Weekly calls on Discord |
+| Apr 3, 2026 | **rawBit Study Cohort launched** - 10-week program announced |
+| Apr 2026 - ongoing | Weekly calls on Discord |
 
 ---
 

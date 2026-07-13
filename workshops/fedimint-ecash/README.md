@@ -6,7 +6,7 @@
 
 ## Overview
 
-This workshop series covers federated eCash systems — Fedimint and Cashu — that enable communities to hold funds collectively with complete payment privacy. Participants learn to set up federations, send eCash globally, and understand how blind signatures create untraceable transactions.
+This workshop series covers federated eCash systems - Fedimint and Cashu - that enable communities to hold funds collectively with complete payment privacy. Participants learn to set up federations, send eCash globally, and understand how blind signatures create untraceable transactions.
 
 **Format**: Online + In-person
 **Frequency**: Monthly
@@ -49,13 +49,13 @@ This workshop series covers federated eCash systems — Fedimint and Cashu — t
 
 | Date | Location | Highlights |
 |------|----------|------------|
-| Jun 27, 2025 | Bitcoin House Bali | Fedimint Privacy Workshop — learned how federated mints work via Fedi |
-| Jul 19-24, 2025 | Online (Discord) | Reading Club evolved into eCash experiments — submarine swaps |
+| Jun 27, 2025 | Bitcoin House Bali | Fedimint Privacy Workshop - learned how federated mints work via Fedi |
+| Jul 19-24, 2025 | Online (Discord) | Reading Club evolved into eCash experiments - submarine swaps |
 | Aug 9, 2025 | Online | Fedi eCash experiments |
 | Nov 4, 2025 | Online (Discord) | Used Fedi eCash for completely private payment |
-| Dec 11, 2025 | Online | Fedimint federation demo on Umbrel — "never been easier" |
+| Dec 11, 2025 | Online | Fedimint federation demo on Umbrel - "never been easier" |
 | Jan 19, 2026 | Online | Code Orange Fedimint federation launched and live |
-| Feb 25, 2026 | Online (Discord) | **Sent eCash to 5 countries without a bank** — quiz winners got Fedi eCash |
+| Feb 25, 2026 | Online (Discord) | **Sent eCash to 5 countries without a bank** - quiz winners got Fedi eCash |
 | Mar 30, 2026 | Online (Discord) | Monthly workshop with Fedi Community Master of SEA |
 | Apr 8, 2026 | Online (Discord) | eCash with Fedi, WhiteNoiseChat, Trezor, SeedSigner |
 

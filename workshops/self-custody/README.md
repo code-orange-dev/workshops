@@ -20,7 +20,7 @@ The Self-Custody Workshop is the most frequently run workshop at Code Orange. It
 
 ### Beginner
 - Why self-custody matters
-- Seed phrases — generation, backup, storage
+- Seed phrases - generation, backup, storage
 - Single-sig wallet setup with SeedSigner (air-gapped)
 - Seed phrase backup sheets (distributed to every attendee)
 
@@ -31,7 +31,7 @@ The Self-Custody Workshop is the most frequently run workshop at Code Orange. It
 
 ### Advanced
 - Multisig with Nunchuk (2-of-3)
-- OP_CHECKMULTISIG — how it works under the hood
+- OP_CHECKMULTISIG - how it works under the hood
 - Defending against a $5 wrench attack:
   - Good opsec (don't advertise your stack)
   - Decoy wallets (small balance visible, real funds hidden)
@@ -57,13 +57,13 @@ The Self-Custody Workshop is the most frequently run workshop at Code Orange. It
 
 | Date | Location | Highlights |
 |------|----------|------------|
-| Feb 25, 2025 | Bitcoin House Bali | First self-custody workshop — "next one is about mining" |
-| Apr 22-25, 2025 | Bitcoin House Bali | Wrench attack defense — decoy wallets, opsec, multisig |
+| Feb 25, 2025 | Bitcoin House Bali | First self-custody workshop - "next one is about mining" |
+| Apr 22-25, 2025 | Bitcoin House Bali | Wrench attack defense - decoy wallets, opsec, multisig |
 | Jul 26, 2025 | Bitcoin House Bali | Sovereignty for nomad bitcoiners |
 | Nov 29, 2025 | Bitcoin House Bali | Self-custody fundamentals |
 | Jan 23, 2026 | Bitcoin House Bali | Self-custody workshop |
 | Mar 27, 2026 | Bitcoin House Bali | SeedSigner + Trezor passphrase + Nunchuk multisig |
-| May 22, 2026 | Bitcoin House Bali | **Upcoming** — Nunchuk self-custody with Nunchuk team |
+| May 22, 2026 | Bitcoin House Bali | **Upcoming** - Nunchuk self-custody with Nunchuk team |
 
 ---
 
@@ -90,7 +90,7 @@ The Self-Custody Workshop is the most frequently run workshop at Code Orange. It
 2. Print seed phrase backup sheets: [template](https://github.com/code-orange-dev/seed-phrase-backup-sheet)
 3. For multisig demo, you need 2-3 signing devices + Nunchuk or Sparrow
 4. Budget 2-3 hours
-5. Socratic method works best — ask questions, let participants discover
+5. Socratic method works best - ask questions, let participants discover
 
 ---
 

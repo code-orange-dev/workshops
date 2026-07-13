@@ -1,4 +1,4 @@
-# Code Orange Dev School — Workshops
+# Code Orange Dev School - Workshops
 
 > Every workshop we've ever run. Open-source slides, facilitator guides, and community outcomes.
 
@@ -51,8 +51,8 @@ We open-source everything so community leaders across Asia and beyond can replic
 
 | Event | Date | Location |
 |-------|------|----------|
-| [Sovereign Bitcoiner — Chiang Mai](workshops/special-events/#chiang-mai-nov-2025) | Nov 1-2, 2025 | Bitcoin Learning Centre, Chiang Mai |
-| [Hackathon Win — Nostr](workshops/special-events/#hackathon-nov-2025) | Nov 2025 | Online |
+| [Sovereign Bitcoiner - Chiang Mai](workshops/special-events/#chiang-mai-nov-2025) | Nov 1-2, 2025 | Bitcoin Learning Centre, Chiang Mai |
+| [Hackathon Win - Nostr](workshops/special-events/#hackathon-nov-2025) | Nov 2025 | Online |
 | [Genius Future Summit](workshops/special-events/#genius-summit-oct-2025) | Oct 2-3, 2025 | Bali |
 | [Bitcoin Indonesia Conference](workshops/special-events/#btc-indonesia-sep-2025) | Sep 19, 2025 | Canggu, Bali |
 | [Bitcoin Asia 2026](workshops/special-events/#bitcoin-asia-2026) | 2026 | Hong Kong |
@@ -69,7 +69,7 @@ We open-source everything so community leaders across Asia and beyond can replic
 | Countries reached | 8+ (Indonesia, Thailand, US, India, South Korea, Saudi Arabia, Lithuania, Australia) |
 | Study cohort graduates | 33+ (21 Dojo + 12 Decoding Bitcoin) |
 | Partner organizations | 10+ |
-| Months of continuous operation | 15 (Feb 2025 — Apr 2026) |
+| Months of continuous operation | 15 (Feb 2025 - Apr 2026) |
 | Open-source slide decks | 6 |
 | Cities with in-person events | 3 (Canggu, Ubud, Chiang Mai) |
 
@@ -95,13 +95,13 @@ See [TIMELINE.md](TIMELINE.md) for the complete chronological record of every ev
 
 ## For Community Leaders
 
-All materials in this repo are **CC0 licensed** — use them freely:
+All materials in this repo are **CC0 licensed** - use them freely:
 
 1. **Pick a workshop** from the list above
 2. **Download the slides** from the linked repo (or from the `slides/` directory if included)
 3. **Follow the facilitator notes** in each workshop's README
-4. **Run it in your city** — adapt for your language and community
-5. **Tell us about it** — tag [@CodeOrangeDevs](https://x.com/CodeOrangeDevs) so we can feature you
+4. **Run it in your city** - adapt for your language and community
+5. **Tell us about it** - tag [@CodeOrangeDevs](https://x.com/CodeOrangeDevs) so we can feature you
 
 We've specifically designed these workshops to be replicable. The [Sovereign Bitcoiner](workshops/sovereign-bitcoiner/) workshop has already been independently run by communities in Chiang Mai and at the BTC Education Hub.
 
@@ -109,9 +109,9 @@ We've specifically designed these workshops to be replicable. The [Sovereign Bit
 
 ## Related Repos
 
-- [**Curriculum**](https://github.com/code-orange-dev/curriculum) — Full CC0-licensed syllabi for all study cohort programs
-- [**Impact Report**](https://github.com/code-orange-dev/impact-report) — Developer outcomes and measurable results
-- [**PR Tracking Dashboard**](https://github.com/code-orange-dev/PR-tracking-dashboard) — Every contribution by our community members
+- [**Curriculum**](https://github.com/code-orange-dev/curriculum) - Full CC0-licensed syllabi for all study cohort programs
+- [**Impact Report**](https://github.com/code-orange-dev/impact-report) - Developer outcomes and measurable results
+- [**PR Tracking Dashboard**](https://github.com/code-orange-dev/PR-tracking-dashboard) - Every contribution by our community members
 - [**Workshop Slides**](https://github.com/code-orange-dev):
   - [Sovereign Bitcoiner Slides](https://github.com/code-orange-dev/sovereign-bitcoiner-slides)
   - [Bitcoin Privacy Workshop Slides](https://github.com/code-orange-dev/bitcoin-privacy-workshop-slides)

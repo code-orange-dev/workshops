@@ -4,7 +4,7 @@
 
 ---
 
-## Sovereign Bitcoiner Workshop — Chiang Mai, Thailand {#chiang-mai-nov-2025}
+## Sovereign Bitcoiner Workshop - Chiang Mai, Thailand {#chiang-mai-nov-2025}
 
 **Dates**: November 1-2, 2025
 **Location**: Bitcoin Learning Centre, Chiang Mai (hosted by @JimmyKostro)
@@ -12,14 +12,14 @@
 
 Code Orange's first international workshop expansion. A two-day intensive at the Bitcoin Learning Centre covering full nodes, self-custody, pleb mining, and private payments.
 
-**Day 1** (Nov 1): Bitcoin nodes — "We learned how to run a bitcoin node today. What a smooth workshop!"
+**Day 1** (Nov 1): Bitcoin nodes - "We learned how to run a bitcoin node today. What a smooth workshop!"
 **Day 2** (Nov 2): Self-custody and privacy
 
 **Outcome**: Partnership with Bitcoin Learning Centre established. Workshop format proven to work outside of Bali.
 
 ---
 
-## Hackathon Win — Nostr Censorship-Resistant Apps {#hackathon-nov-2025}
+## Hackathon Win - Nostr Censorship-Resistant Apps {#hackathon-nov-2025}
 
 **Date**: November 2025
 **Format**: Online hackathon
@@ -45,7 +45,7 @@ Code Orange showcased the full Sovereign Bitcoiner toolkit at the Genius Future 
 
 ---
 
-## Bitcoin Indonesia Conference — Beach Side Event {#btc-indonesia-sep-2025}
+## Bitcoin Indonesia Conference - Beach Side Event {#btc-indonesia-sep-2025}
 
 **Date**: September 19, 2025
 **Location**: Canggu, Bali

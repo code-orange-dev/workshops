@@ -62,10 +62,10 @@ The Sovereign Bitcoiner Workshop is Code Orange's flagship in-person workshop se
 
 | Date | Location | Highlights |
 |------|----------|------------|
-| Feb 25, 2025 | Bitcoin House Bali | First documented workshop — advanced self-custody |
-| Apr 25, 2025 | Bitcoin House Bali | $5 wrench attack defense — decoy wallets, opsec, multisig |
-| Jul 26, 2025 | Bitcoin House Bali | Sovereignty for nomad bitcoiners — "The Sovereign Individual" |
-| Nov 1-2, 2025 | Bitcoin Learning Centre, Chiang Mai | **Two-day intensive** — full nodes, self-custody, pleb mining, privacy |
+| Feb 25, 2025 | Bitcoin House Bali | First documented workshop - advanced self-custody |
+| Apr 25, 2025 | Bitcoin House Bali | $5 wrench attack defense - decoy wallets, opsec, multisig |
+| Jul 26, 2025 | Bitcoin House Bali | Sovereignty for nomad bitcoiners - "The Sovereign Individual" |
+| Nov 1-2, 2025 | Bitcoin Learning Centre, Chiang Mai | **Two-day intensive** - full nodes, self-custody, pleb mining, privacy |
 | Nov 29, 2025 | Bitcoin House Bali | Self-custody workshop |
 | Jan 23, 2026 | Bitcoin House Bali | Self-custody workshop |
 | Mar 27, 2026 | Bitcoin House Bali | SeedSigner single-sig, Trezor passphrase, Nunchuk multisig |
@@ -85,7 +85,7 @@ The Sovereign Bitcoiner Workshop is Code Orange's flagship in-person workshop se
 
 1. Download the slides: [GitHub](https://github.com/code-orange-dev/sovereign-bitcoiner-slides)
 2. You'll need: a laptop with Umbrel/Bitcoin Core, 1-2 hardware wallets, a BitAxe (optional)
-3. Follow the Socratic method — ask questions, let attendees discover answers
+3. Follow the Socratic method - ask questions, let attendees discover answers
 4. Budget 2-3 hours, keep groups under 15 for hands-on quality
 5. Share your results with us: [@CodeOrangeDevs](https://x.com/CodeOrangeDevs)
 

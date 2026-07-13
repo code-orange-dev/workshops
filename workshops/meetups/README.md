@@ -1,6 +1,6 @@
 # Bitcoin Meetups & Community Events
 
-> From Ubud sunsets to Discord calls — building community everywhere.
+> From Ubud sunsets to Discord calls - building community everywhere.
 
 ---
 
@@ -12,7 +12,7 @@
 **Frequency**: Monthly
 **Location**: Outpost Penestanan, Ubud, Bali
 **Time**: 6pm local time
-**Audience**: All levels — "bring a hardware wallet or a node to show"
+**Audience**: All levels - "bring a hardware wallet or a node to show"
 
 An intimate monthly meetup in Ubud covering everything from mining and nodes to self-custody and Lightning payments. Co-organized with the Bitcoin Indonesia (@bitcoinindo21) team.
 
@@ -20,7 +20,7 @@ An intimate monthly meetup in Ubud covering everything from mining and nodes to 
 |------|------------|
 | Oct 27, 2025 | Mining, nodes, self-custody |
 | Nov 23, 2025 | Hardware wallets and nodes show-and-tell |
-| Jan 26, 2026 | With Bitcoin Indonesia team — "price down, adoption up!" |
+| Jan 26, 2026 | With Bitcoin Indonesia team - "price down, adoption up!" |
 | Feb 23, 2026 | "Ubud meetup going strong" |
 | Mar 24, 2026 | Self-custody, Lightning payments, beautiful sunset |
 
@@ -39,7 +39,7 @@ The main hub meetup at Bitcoin House Bali covering technical topics through Socr
 |------|------------|
 | Sep 22, 2025 | Nodes, mining, privacy |
 | Oct 22, 2025 | Single-sig vs multisig, cypherpunk ethos, mining, privacy |
-| Dec 4, 2025 | Art gallery meetup — "underground vibe, grassroots adoption" |
+| Dec 4, 2025 | Art gallery meetup - "underground vibe, grassroots adoption" |
 
 ---
 
@@ -54,8 +54,8 @@ An open-format online meetup where anyone can bring up Bitcoin topics for discus
 
 | Date | Highlights |
 |------|------------|
-| Feb 9, 2026 | Announced — every 15th of the month |
-| Feb 15, 2026 | First session — open discussion format, "blast" |
+| Feb 9, 2026 | Announced - every 15th of the month |
+| Feb 15, 2026 | First session - open discussion format, "blast" |
 | Mar 12, 2026 | Monthly online meetup |
 
 ---
@@ -72,7 +72,7 @@ Monthly accountability calls where community members share their Actions, Intent
 
 | Date | Highlights |
 |------|------------|
-| Dec 9, 2025 | Launched — QR code to join |
+| Dec 9, 2025 | Launched - QR code to join |
 | Jan 31, 2026 | Monthly session |
 | Mar 2, 2026 | "Cover your Actions, Intentions, Reflections" |
 
@@ -86,7 +86,7 @@ Monthly accountability calls where community members share their Actions, Intent
 **Location**: Bitcoin House Bali
 **Launched**: November 2025
 
-Monthly movie screenings at Bitcoin House Bali — Bitcoin documentaries and related films.
+Monthly movie screenings at Bitcoin House Bali - Bitcoin documentaries and related films.
 
 | Date | Highlights |
 |------|------------|
