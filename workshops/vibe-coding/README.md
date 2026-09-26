@@ -93,7 +93,7 @@ Projects built by attendees during and after workshops:
 
 ## Run This Workshop in Your City
 
-1. Get free Soapbox Shakespeare credits at [soapbox.tech](https://soapbox.tech)
+1. Open [Shakespeare](https://shakespeare.diy), the AI web builder by [Soapbox](https://soapbox.pub) (ask your facilitator about participant credits)
 2. Have participants bring laptops - everything is browser-based
 3. Start simple: "build your first website in 15 minutes"
 4. Progress to Bitcoin integration: Lightning payments, Cashu widgets
