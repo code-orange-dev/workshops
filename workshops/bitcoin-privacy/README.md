@@ -21,18 +21,19 @@ The Bitcoin Privacy Workshop is a hands-on exploration of privacy tools and tech
 ### Lightning Privacy
 - Sending Lightning payments through 3+ hops across different wallets
 - Testing traceability: Blink → Wallet of Satoshi → Phoenix → destination
-- "Really difficult to track a lightning payment if 3 lightning hops are performed"
-- Onion routing and path privacy
+- Onion routing and path privacy: what each hop can and can't see
+- What hops *don't* hide: custodial wallets (Wallet of Satoshi, Blink) see every payment you make, channel balances can be probed, and invoices can link payer and payee. Adding more hops through custodians adds more parties who see the payment
+- BOLT12 offers and blinded paths: the receiver-privacy fixes in progress
 
 ### eCash (Cashu & Fedimint)
 - How Cashu mints work - blind signatures for privacy
 - Nutstash wallet setup and usage
-- Fedimint federations - community-held funds with complete privacy
+- Fedimint federations - community-held funds. Blind signatures give strong privacy *from the guardians*, and the trade-off is custodial trust in the federation
 - Setting up a Fedimint federation on Umbrel
 - Sending eCash globally without a bank (tested: US, India, Lithuania, Australia, China)
 
 ### Privacy Tools in Practice
-- Submarine swaps: on-chain → Lightning → eCash (complete privacy chain)
+- Submarine swaps: on-chain → Lightning → eCash, and where each step can still leak (swap provider, timing, amounts)
 - WhiteNoiseChat for encrypted communications
 - Fedi app - private messaging + shared custody + mini apps
 - Cypherpunk culture and philosophy
@@ -75,7 +76,7 @@ The Bitcoin Privacy Workshop is a hands-on exploration of privacy tools and tech
 
 ## Outcomes
 
-- Attendees send their first private Lightning payment
+- Attendees send their first Lightning payment and map what each party in the route could see
 - Community runs a live Fedimint federation on Umbrel
 - Featured in the **HRF AI and Individual Rights Newsletter**
 - Slides open-sourced: [bitcoin-privacy-workshop-slides](https://github.com/code-orange-dev/bitcoin-privacy-workshop-slides)
@@ -87,8 +88,12 @@ The Bitcoin Privacy Workshop is a hands-on exploration of privacy tools and tech
 1. Download the slides: [GitHub](https://github.com/code-orange-dev/bitcoin-privacy-workshop-slides)
 2. Pre-fund a Cashu mint or Fedimint federation for live demos
 3. Have attendees install 2+ Lightning wallets before arriving
-4. Live demo: send a payment through 3 wallets and discuss traceability
+4. Live demo: send a payment through 3 wallets, then list what each wallet operator and hop learned. Custodians see everything, so don't present hops as anonymity
 5. Budget 2 hours, works best with 5-15 attendees
+
+## Go Deeper
+
+Developers who want to build privacy tools can continue with [The Privacy Sessions](https://github.com/code-orange-dev/curriculum/tree/main/privacy-track): 12 biweekly drop-in sessions starting with Silent Payments, including dedicated Lightning privacy (S10) and ecash (S11) sessions.
 
 ---
 
