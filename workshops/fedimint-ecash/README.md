@@ -11,7 +11,7 @@ This workshop series covers federated eCash systems - Fedimint and Cashu - that 
 **Format**: Online + In-person
 **Frequency**: Monthly
 **Location**: Discord + Bitcoin House Bali
-**Partners**: Fedi (Community Master of SEA), Fedimint
+**Tools**: Fedi, Fedimint
 **Audience**: Intermediate Bitcoiners
 **Cost**: Free
 
@@ -63,19 +63,16 @@ This workshop series covers federated eCash systems - Fedimint and Cashu - that 
 
 ## Live Federation
 
-Code Orange runs a live Fedimint federation that community members can join and test:
+Community members can join a Fedimint federation to test:
 - Set up on Umbrel
 - Open for community members to join via QR code or invite link
 - Used for eCash distribution during Reading Club quizzes and workshops
 
 ---
 
-## Outcomes
+## Notes
 
-- Community operates a live Fedimint federation
-- eCash sent across 5+ countries without banking infrastructure
 - Reading Club quiz winners receive Fedi eCash as prizes
-- Featured in Fedi community channels
 
 ---
 

@@ -1,6 +1,6 @@
 # Code Orange Dev School - Complete Workshop Timeline
 
-> Every event, chronologically documented. Built from our public Twitter/X archive.
+> Events, calls and announcements in date order, compiled from Code Orange's public X posts (Feb 2025 - Apr 2026).
 
 ---
 
@@ -16,10 +16,10 @@
 | Apr 12 | OpenClaw workshops launched - AI custody, L402, Nostr, Alby zaps | Vibe Coding | Bitcoin House Bali |
 | Apr 10 | Fedi wallet design review | Fedimint & eCash | Online |
 | Apr 8 | Monthly workshop - eCash (Fedi), WhiteNoiseChat, Trezor, SeedSigner | Privacy / Self-Custody | Online (Discord) |
-| Apr 6 | **Bitcoin Dojo Cohort 1 graduation** - 21 graduates | Study Cohort | Online (Discord) |
+| Apr 6 | **Bitcoin Dojo Cohort 1 graduation** | Study Cohort | Online (Discord) |
 | Apr 4 | Bitcoin Dojo final call - next steps, BOSS Challenge, grants | Study Cohort | Online (Discord) |
 | Apr 3 | **rawBit Study Cohort launched** - 10 weeks, raw transactions | Study Cohort | Online (Discord) |
-| Apr 2 | Bitcoin Basics call - 10 attendees | Meetup | Online (Discord) |
+| Apr 2 | Bitcoin Basics call | Meetup | Online (Discord) |
 | Apr 2 | OpenClaw in-person workshop announced - monthly at Bitcoin House Bali | Vibe Coding | Bitcoin House Bali |
 
 ### March 2026
@@ -35,7 +35,7 @@
 | Mar 24 | Bitcoin Meetup Ubud - self-custody, Lightning | Meetup | Ubud, Bali |
 | Mar 23 | Bitcoin Dojo Week 4 - scriptSig, scriptPubKey, P2PKH | Study Cohort | Online (Discord) |
 | Mar 23 | Self-Custody Workshop announced (Mar 27) | Self-Custody | Bitcoin House Bali |
-| Mar 23 | Vibe Coding meets Bitcoin Dojo - Chaitika & mwihotii build educational websites | Vibe Coding | Online |
+| Mar 23 | Vibe Coding meets Bitcoin Dojo - community members build educational websites | Vibe Coding | Online |
 | Mar 22 | Monthly schedule published - Reading Club to OpenClaw | Community | Online |
 | Mar 21 | New monthly privacy/self-custody/censorship-resistance workshop announced (April) | Privacy | Online (Discord) |
 | Mar 18 | OpenClaw workshop - strong attendance, covered Fedi, Nunchuk, Nostr, Alby | Vibe Coding | Online (Discord) |
@@ -106,7 +106,7 @@
 | Nov 11 | November workshop schedule published with QR codes | Community | Online |
 | Nov 4 | Vibe Coding session announced - special guest speaker | Vibe Coding | Online (Discord) |
 | Nov 4 | **Privacy Workshop** - used Fedi eCash for completely private payment | Privacy | Online (Discord) |
-| Nov 4 | **Hackathon win** - built censorship-resistant apps on Nostr | Special Event | Online |
+| Nov 4 | Nostr hackathon - censorship-resistant apps | Special Event | Online |
 | Nov 2 | **Sovereign Bitcoiner Workshop Day 2** - self-custody, privacy | Sovereign Bitcoiner | Bitcoin Learning Centre, Chiang Mai |
 | Nov 1 | **Sovereign Bitcoiner Workshop Day 1** - full nodes at Bitcoin Learning Centre | Sovereign Bitcoiner | Bitcoin Learning Centre, Chiang Mai |
 
@@ -114,7 +114,7 @@
 
 | Date | Event | Type | Location |
 |------|-------|------|----------|
-| Oct 29 | **HRF recognition** - Vibe Coding workshops featured in HRF AI Newsletter | Recognition | Online |
+| Oct 29 | Vibe Coding workshops featured in [HRF newsletter #4](https://hrf.org/latest/hrfs-ai-for-individual-rights-newsletter-4/) | Recognition | Online |
 | Oct 28 | Umbrel node-runners at BTC Education Hub / Frostsnap office | Node Running | Bali |
 | Oct 27 | Bitcoin Meetup Ubud - mining, nodes, self-custody | Meetup | Ubud, Bali |
 | Oct 24 | **Bitcoin Privacy Workshop** - tracked Lightning across Blink, WoS, Phoenix, Cashu | Privacy | Bitcoin House Bali |
@@ -219,22 +219,30 @@
 
 ---
 
-## Event Count by Type
+## Entries by Type
 
-| Type | Count |
+Exact counts of the dated entries above (they include workshops, calls, cohort sessions and announcements).
+
+| Type | Entries |
 |------|-------|
-| Self-Custody / Sovereign Bitcoiner | 15+ |
-| Privacy / Fedimint / eCash | 12+ |
-| Vibe Coding / OpenClaw / Nostr | 12+ |
-| Study Cohort sessions (Dojo + Decoding Bitcoin + rawBit) | 20+ |
-| Reading Club | 8+ |
-| Meetups (Ubud, Bali, Online) | 12+ |
-| Mining | 3+ |
-| Node Running | 4+ |
-| Special Events (Conferences, Hackathons, Summits) | 6 |
+| Vibe Coding | 22 |
+| Study Cohort | 19 |
+| Community | 17 |
+| Meetup | 14 |
+| Self-Custody | 12 |
+| Reading Club | 12 |
+| Privacy | 8 |
+| Fedimint & eCash | 7 |
+| Special Event | 6 |
+| Sovereign Bitcoiner | 5 |
+| Node Running | 5 |
+| Mining | 2 |
+| Privacy / Self-Custody | 1 |
+| Recognition | 1 |
+| Reading Club / Privacy | 1 |
 
 ---
 
-*This timeline is compiled from the Code Orange Dev School Twitter/X archive (551 tweets, Feb 2025 - Apr 2026).*
+*Compiled from the Code Orange Dev School X account, Feb 2025 - Apr 2026.*
 
 *Code Orange Dev School | [codeorange.dev](https://codeorange.dev)*

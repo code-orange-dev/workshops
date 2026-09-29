@@ -74,11 +74,10 @@ The Bitcoin Privacy Workshop is a hands-on exploration of privacy tools and tech
 
 ---
 
-## Outcomes
+## Notes
 
 - Attendees send their first Lightning payment and map what each party in the route could see
-- Community runs a live Fedimint federation on Umbrel
-- Featured in the **HRF AI and Individual Rights Newsletter**
+- Code Orange's workshops were featured in [HRF's AI for Individual Rights Newsletter #4](https://hrf.org/latest/hrfs-ai-for-individual-rights-newsletter-4/) (27 Oct 2025)
 - Slides open-sourced: [bitcoin-privacy-workshop-slides](https://github.com/code-orange-dev/bitcoin-privacy-workshop-slides)
 
 ---

@@ -10,10 +10,10 @@ Decoding Bitcoin is an 8-week study cohort based on the [Bitcoin Dev Project's](
 
 **Format**: Online (Discord) - weekly calls
 **Duration**: 8 weeks
-**Partners**: Bitcoin Dev Project (@jrakibi)
+**Based on**: the Bitcoin Dev Project's Decoding Bitcoin
 **Audience**: Developers with basic programming knowledge
 **Cost**: Free
-**Status**: 2 cohorts graduated (12+ graduates)
+**Status**: 2 cohorts completed
 
 ---
 
@@ -47,12 +47,11 @@ Decoding Bitcoin is an 8-week study cohort based on the [Bitcoin Dev Project's](
 
 ---
 
-## Graduate Outcomes
+## After the cohort
 
-- Graduates directed to grants from OpenSats, Btrust, Brink, Maelstrom, Spiral, HRF
-- Multiple graduates pursuing Good First Issues in Bitcoin repos
-- Some graduates progressed to Bitcoin Dojo and rawBit cohorts
-- Chaitika: from Decoding Bitcoin → Bitcoin Dojo → Silent Payments work at Bitshala
+- Look for Good First Issues in Bitcoin repos
+- Continue with Bitcoin Dojo or rawBit
+- Grant programs to know about: OpenSats, Btrust, Brink, Maelstrom, Spiral, HRF
 
 ---
 

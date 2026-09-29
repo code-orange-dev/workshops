@@ -1,6 +1,6 @@
 # Code Orange Dev School - Workshops
 
-> Every workshop we've ever run. Open-source slides, facilitator guides, and community outcomes.
+> Workshops, cohorts and events run by Code Orange Dev School, with open-source slides and facilitator notes.
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-orange.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -8,7 +8,7 @@
 
 ## What This Repo Is
 
-This is the complete archive of every workshop, meetup, and educational event run by [Code Orange Dev School](https://codeorange.dev) since February 2025. Each workshop has its own page documenting what was covered, who participated, tools used, and outcomes achieved.
+This is an archive of workshops, meetups and educational events run by [Code Orange Dev School](https://codeorange.dev) since February 2025. Each program has a page describing what was covered and the tools used.
 
 We open-source everything so community leaders across Asia and beyond can replicate these workshops in their own cities.
 
@@ -30,11 +30,11 @@ We open-source everything so community leaders across Asia and beyond can replic
 
 ### Study Cohorts
 
-| Program | Duration | Format | Partners | Status |
+| Program | Duration | Format | Based on | Status |
 |---------|----------|--------|----------|--------|
-| [Bitcoin Dojo](workshops/bitcoin-dojo/) | 7 weeks | Online (Discord) | Chaincode Labs, Bitcoin Dojo | Cohort 1 graduated |
-| [rawBit Study Cohort](workshops/rawbit/) | 10 weeks | Online (Discord) | rawBit | Cohort 1 in progress |
-| [Decoding Bitcoin](workshops/decoding-bitcoin/) | 8 weeks | Online (Discord) | Bitcoin Dev Project | 2 cohorts graduated |
+| [Bitcoin Dojo](workshops/bitcoin-dojo/) | 7 weeks | Online (Discord) | Programming Bitcoin (Jimmy Song) | Cohort 1 completed |
+| [rawBit Study Cohort](workshops/rawbit/) | 10 weeks | Online (Discord) | rawBit's open-source lessons | Cohort 1 in progress |
+| [Decoding Bitcoin](workshops/decoding-bitcoin/) | 8 weeks | Online (Discord) | Bitcoin Dev Project's Decoding Bitcoin | 2 cohorts completed |
 
 ### Community Events
 
@@ -52,26 +52,16 @@ We open-source everything so community leaders across Asia and beyond can replic
 | Event | Date | Location |
 |-------|------|----------|
 | [Sovereign Bitcoiner - Chiang Mai](workshops/special-events/#chiang-mai-nov-2025) | Nov 1-2, 2025 | Bitcoin Learning Centre, Chiang Mai |
-| [Hackathon Win - Nostr](workshops/special-events/#hackathon-nov-2025) | Nov 2025 | Online |
+| [Nostr Hackathon](workshops/special-events/#hackathon-nov-2025) | Nov 2025 | Online |
 | [Genius Future Summit](workshops/special-events/#genius-summit-oct-2025) | Oct 2-3, 2025 | Bali |
 | [Bitcoin Indonesia Conference](workshops/special-events/#btc-indonesia-sep-2025) | Sep 19, 2025 | Canggu, Bali |
-| [Bitcoin Asia 2026](workshops/special-events/#bitcoin-asia-2026) | 2026 | Hong Kong |
 | [beBOP Workshop](workshops/special-events/#bebop-dec-2025) | Dec 26, 2025 | Bitcoin House Bali |
 
 ---
 
-## By the Numbers
+## Record
 
-| Metric | Count |
-|--------|-------|
-| Total workshops delivered | 60+ |
-| Unique workshop types | 10 |
-| Countries reached | 8+ (Indonesia, Thailand, US, India, South Korea, Saudi Arabia, Lithuania, Australia) |
-| Study cohort graduates | 33+ (21 Dojo + 12 Decoding Bitcoin) |
-| Partner organizations | 10+ |
-| Months of continuous operation | 15 (Feb 2025 - Apr 2026) |
-| Open-source slide decks | 6 |
-| Cities with in-person events | 3 (Canggu, Ubud, Chiang Mai) |
+The [timeline](TIMELINE.md) lists 132 dated entries (workshops, calls, cohort sessions and announcements) from February 2025 to April 2026, compiled from Code Orange's public X posts.
 
 ---
 
@@ -110,7 +100,7 @@ We've specifically designed these workshops to be replicable. The [Sovereign Bit
 ## Related Repos
 
 - [**Curriculum**](https://github.com/code-orange-dev/curriculum) - Full CC0-licensed syllabi for all study cohort programs
-- [**Impact Report**](https://github.com/code-orange-dev/impact-report) - Developer outcomes and measurable results
+- [**PR Tracking Dashboard**](https://github.com/code-orange-dev/PR-tracking-dashboard) - Linked PRs by community members
 - [**PR Tracking Dashboard**](https://github.com/code-orange-dev/PR-tracking-dashboard) - Every contribution by our community members
 - [**Workshop Slides**](https://github.com/code-orange-dev):
   - [Sovereign Bitcoiner Slides](https://github.com/code-orange-dev/sovereign-bitcoiner-slides)

@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Sovereign Bitcoiner Workshop is Code Orange's flagship in-person workshop series. It covers the four pillars of Bitcoin sovereignty: full nodes, self-custody, mining, and privacy. Designed as a hands-on Socratic seminar where attendees do most of the talking.
+The Sovereign Bitcoiner Workshop is Code Orange's in-person workshop series. It covers the four pillars of Bitcoin sovereignty: full nodes, self-custody, mining, and privacy. Designed as a hands-on Socratic seminar where attendees do most of the talking.
 
 **Format**: In-person, 2-3 hours
 **Frequency**: Monthly
@@ -39,7 +39,7 @@ The Sovereign Bitcoiner Workshop is Code Orange's flagship in-person workshop se
 
 ### Pillar 4: Privacy
 - Why privacy matters for Bitcoin
-- Lightning payment tracking difficulty (3+ hops)
+- What Lightning hops do and don't hide (custodial wallets see your payments)
 - eCash with Fedi and Cashu
 - Submarine swaps (on-chain → Lightning → eCash)
 
@@ -72,10 +72,9 @@ The Sovereign Bitcoiner Workshop is Code Orange's flagship in-person workshop se
 
 ---
 
-## Outcomes
+## Notes
 
 - "So we could sleep well at night with our self-custody setup."
-- Workshop independently replicated by BTC Education Hub and Frostsnap team
 - Slides open-sourced for community leaders: [sovereign-bitcoiner-slides](https://github.com/code-orange-dev/sovereign-bitcoiner-slides)
 - Every attendee receives a seed-phrase backup sheet
 
