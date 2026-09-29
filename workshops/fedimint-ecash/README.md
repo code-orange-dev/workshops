@@ -63,7 +63,7 @@ This workshop series covers federated eCash systems - Fedimint and Cashu - that 
 
 ## Live Federation
 
-Code Orange runs a live Fedimint federation that community members can join and test:
+Community members can join a Fedimint federation to test:
 - Set up on Umbrel
 - Open for community members to join via QR code or invite link
 - Used for eCash distribution during Reading Club quizzes and workshops

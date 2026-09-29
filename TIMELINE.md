@@ -241,17 +241,6 @@ Exact counts of the dated entries above (they include workshops, calls, cohort s
 | Recognition | 1 |
 | Reading Club / Privacy | 1 |
 
-------|-------|
-| Self-Custody / Sovereign Bitcoiner | 15+ |
-| Privacy / Fedimint / eCash | 12+ |
-| Vibe Coding / OpenClaw / Nostr | 12+ |
-| Study Cohort sessions (Dojo + Decoding Bitcoin + rawBit) | 20+ |
-| Reading Club | 8+ |
-| Meetups (Ubud, Bali, Online) | 12+ |
-| Mining | 3+ |
-| Node Running | 4+ |
-| Special Events (Conferences, Hackathons, Summits) | 6 |
-
 ---
 
 *Compiled from the Code Orange Dev School X account, Feb 2025 - Apr 2026.*
