@@ -10,7 +10,7 @@ The rawBit Study Cohort is a 10-week hands-on program where participants constru
 
 **Format**: Online (Discord) - weekly calls
 **Duration**: 10 weeks
-**Partners**: rawBit (@rawBit_io)
+**Based on**: rawBit's open-source lessons (@rawBit_io)
 **Audience**: Developers who've completed Bitcoin Dojo or equivalent
 **Cost**: Free
 **Status**: Cohort 1 in progress (launched April 2026)

@@ -63,7 +63,7 @@ The Vibe Coding workshop series (now branded **OpenClaw**) teaches Bitcoiners to
 | Feb 17, 2026 | Online (Discord) | Soapbox Shakespeare + Bitcoin payments integration |
 | Mar 3, 2026 | Online (Discord) | OpenClaw workshop - Umbrel, Clawi AI, Fedi, Nunchuk, Nostr, Alby |
 | Mar 18, 2026 | Online (Discord) | Strong attendance - Fedi, Nunchuk, Nostr, Alby covered |
-| Mar 23, 2026 | Online | Vibe Coding meets Bitcoin Dojo - Chaitika & mwihotii build educational sites |
+| Mar 23, 2026 | Online | Vibe Coding meets Bitcoin Dojo - community members build educational sites |
 | Apr 2, 2026 | Bitcoin House Bali | **In-person OpenClaw launched** - monthly meetup at Bitcoin House |
 | Apr 12, 2026 | Bitcoin House Bali | Full OpenClaw program - AI custody, L402, Nostr, Alby zaps |
 | Apr 13, 2026 | Online | L402 Lightning payments successfully tested |
@@ -71,11 +71,10 @@ The Vibe Coding workshop series (now branded **OpenClaw**) teaches Bitcoiners to
 
 ---
 
-## Recognition
+## Notes
 
-- **HRF AI and Individual Rights Newsletter** - Vibe Coding workshops featured
-- **Hackathon win** (November 2025) - Code Orange community built censorship-resistant apps on Nostr
-- Community members (Chaitika, mwihotii) independently building educational websites using skills learned
+- Vibe Coding workshops were featured in [HRF's AI for Individual Rights Newsletter #4](https://hrf.org/latest/hrfs-ai-for-individual-rights-newsletter-4/) (27 Oct 2025)
+- Community members building educational websites with the tools from the sessions
 
 ---
 
@@ -83,10 +82,9 @@ The Vibe Coding workshop series (now branded **OpenClaw**) teaches Bitcoiners to
 
 Projects built by attendees during and after workshops:
 
-- Bitcoin transaction validation educational website (by @Chaitika_)
 - Educational Bitcoin website (by @mwihotii)
 - Bitcoin Reading Club website (by @realalexxie)
-- Censorship-resistant Nostr apps (hackathon winners)
+- Censorship-resistant Nostr apps (hackathon projects)
 - Various personal websites deployed to Nostr
 
 ---

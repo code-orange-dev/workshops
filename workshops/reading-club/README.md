@@ -49,7 +49,7 @@ The Bitcoin Reading Club is a monthly online session where community members rea
 | Dec 22, 2025 | The Bitcoin Standard continued with custom reading website |
 | Jan 27, 2026 | Reading Club with Alex Xie |
 | Feb 25, 2026 | Quiz winners got Fedi eCash - sent to US, India, Lithuania, Australia, China |
-| Mar 25, 2026 | Chaitika, Harris, Ilie won eCash during quiz |
+| Mar 25, 2026 | eCash prizes for the quiz |
 
 ---
 

@@ -75,12 +75,10 @@ The Self-Custody Workshop is the most frequently run workshop at Code Orange. It
 
 ---
 
-## Outcomes
+## What attendees do
 
 - Every attendee receives a seed-phrase backup sheet: [backup template](https://github.com/code-orange-dev/seed-phrase-backup-sheet)
 - Attendees set up their first hardware wallet during the session
-- Multiple attendees upgraded from custodial to self-custody after attending
-- Nunchuk team confirmed as guest workshop leader (May 2026)
 
 ---
 

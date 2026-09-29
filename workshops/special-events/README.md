@@ -1,6 +1,6 @@
 # Special Events & Conferences
 
-> One-off events, conference appearances, hackathons, and partnerships.
+> One-off events and conference appearances.
 
 ---
 
@@ -10,23 +10,19 @@
 **Location**: Bitcoin Learning Centre, Chiang Mai (hosted by @JimmyKostro)
 **Format**: Two-day intensive workshop
 
-Code Orange's first international workshop expansion. A two-day intensive at the Bitcoin Learning Centre covering full nodes, self-custody, pleb mining, and private payments.
+A two-day intensive at the Bitcoin Learning Centre covering full nodes, self-custody, pleb mining, and private payments.
 
 **Day 1** (Nov 1): Bitcoin nodes - "We learned how to run a bitcoin node today. What a smooth workshop!"
 **Day 2** (Nov 2): Self-custody and privacy
 
-**Outcome**: Partnership with Bitcoin Learning Centre established. Workshop format proven to work outside of Bali.
-
 ---
 
-## Hackathon Win - Nostr Censorship-Resistant Apps {#hackathon-nov-2025}
+## Nostr Hackathon {#hackathon-nov-2025}
 
 **Date**: November 2025
 **Format**: Online hackathon
 
-Code Orange community members won a hackathon building censorship-resistant applications on Nostr. The win was celebrated at the next Vibe Coding workshop.
-
-"So happy to win this hackathon! Join our vibe coding workshop on 19th November to build more censorship resistant apps on Nostr."
+Community members took part in an online hackathon building censorship-resistant apps on Nostr, and followed it up at the 19 November Vibe Coding workshop.
 
 ---
 
@@ -34,7 +30,7 @@ Code Orange community members won a hackathon building censorship-resistant appl
 
 **Dates**: October 2-3, 2025
 **Location**: Bali (Genius Academy AI)
-**Partners**: Genius Academy AI, Stamp Seed, COLDCARD, BraiinsMining, Trezor, SoloSatoshi, Umbrel
+**Host**: Genius Academy AI · **Tools shown**: Stamp Seed, COLDCARD, Braiins, Trezor, SoloSatoshi (BitAxe), Umbrel
 
 Code Orange showcased the full Sovereign Bitcoiner toolkit at the Genius Future Summit:
 - Full-node demo (Umbrel)
@@ -49,19 +45,9 @@ Code Orange showcased the full Sovereign Bitcoiner toolkit at the Genius Future 
 
 **Date**: September 19, 2025
 **Location**: Canggu, Bali
-**Partners**: Bitcoin Indonesia (@bitcoinindo21)
+**Conference**: Bitcoin Indonesia (@bitcoinindo21)
 
 Code Orange hosted a "Node Runners' Beach Run" as a side event during the Bitcoin Indonesia Conference. "Beautiful to see so many node runners in one place."
-
----
-
-## Bitcoin Asia 2026 {#bitcoin-asia-2026}
-
-**Date**: 2026 (upcoming)
-**Location**: Hong Kong
-**Format**: Conference talk
-
-Keypleb confirmed as speaker at Bitcoin Asia 2026. First major international conference speaking engagement.
 
 ---
 
@@ -75,17 +61,9 @@ Special workshop with the beBOP community, showcasing privacy tools and Bitcoin 
 
 ---
 
-## Conference & Media Appearances
+## Media
 
-| Date | Event | Type |
-|------|-------|------|
-| Aug 2025 | Bitcoin Conference Asia | Attended / Networked |
-| Sep 2025 | Bitcoin Indonesia Conference | Side event host |
-| Oct 2025 | Genius Future Summit | Workshop presenter |
-| Nov 2025 | HRF AI Newsletter | Featured |
-| Dec 2025 | RoxomTV Live Stream | "Orange pill developers in Asia" |
-| Dec 2025 | Featured alongside Bitshala, Jimmy Song | Recognition |
-| 2026 | Bitcoin Asia (Hong Kong) | Speaker (confirmed) |
+- Code Orange's vibe coding workshops were featured in [HRF's AI for Individual Rights Newsletter #4](https://hrf.org/latest/hrfs-ai-for-individual-rights-newsletter-4/) (27 Oct 2025)
 
 ---
 
